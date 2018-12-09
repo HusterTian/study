@@ -6,3 +6,6 @@ print(my_beetle.get_desciptive_name())
 
 my_tesla = ElectricCar('tesla', 'roadster', 2016)
 print(my_tesla.get_desciptive_name())
+
+my_sagiter = Car('volkswagen', 'sagiter', 2015)
+print(my_sagiter.get_desciptive_name())
